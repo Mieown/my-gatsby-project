@@ -11,9 +11,10 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "author": "echo \"Done with love by Mieown\""
+
   },
-  "author": "Mieown",
   "dependencies": {
     "gatsby": "^3.0.1",
     "react": "^17.0.1",
